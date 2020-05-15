@@ -1,2 +1,2 @@
-msg = "This is a test"
+msg = "This is a test2"
 print(msg)
